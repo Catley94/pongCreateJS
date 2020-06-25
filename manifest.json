@@ -1,0 +1,9 @@
+{   
+    "manifest": [
+                {"src":"./assets/playerScore.mp3", "id":"playerScore", "type":"createjs.Types.SOUND"},
+                {"src":"./assets/enemyScore.mp3", "id":"enemyScore", "type":"createjs.Types.SOUND"},
+                {"src":"./assets/hit.mp3", "id":"hit", "type":"createjs.Types.SOUND"},
+                {"src":"./assets/wall.mp3", "id":"wall", "type":"createjs.Types.SOUND"},
+                {"src":"./assets/startB.png", "id":"startB", "type":"createjs.Types.IMAGE"}
+            ]
+        }
